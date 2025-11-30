@@ -3,7 +3,7 @@
 [![MkDocs](https://img.shields.io/badge/docs-MkDocs-blue)](https://astroair.github.io/sast_cxx_lessons/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-西安交通大学软件协会 C++ 教学课程。
+南京邮电大学协会 C++ 教学课程。
 
 ## 📚 课程内容
 

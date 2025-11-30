@@ -1,7 +1,7 @@
 [project]
 name = "sast-cxx-lessons"
 version = "0.1.0"
-description = "西安交通大学软件协会 C++ 教学课程"
+description = "南京邮电大学软件协会 C++ 教学课程"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
